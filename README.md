@@ -1,12 +1,20 @@
 # React Native Starter
 A full stack React Native Starter template, built as a bare-bones To Do app to help illustrate userContext and other Supabase logic. When using the template, simply replace the two To Do components, and two To Do screens with your own content. 
 
+### Contents
+- [Features](https://github.com/sandypockets/react-native-starter#features)
+- [Tech stack](https://github.com/sandypockets/react-native-starter#tech-stack)
+- [Getting started](https://github.com/sandypockets/react-native-starter#getting-started)
+- [Dependencies](https://github.com/sandypockets/react-native-starter#dependencies)
+- [Dev dependencies](https://github.com/sandypockets/react-native-starter#dev-dependencies)
+- [Screenshots](https://github.com/sandypockets/react-native-starter#screenshots)
+
 ### Features
 * User authentication
 * Prebuilt hook for user context
 * Postgres database
 
-### Tech Stack
+### Tech stack
 * [React Native](https://reactnative.dev/)
 * [React Native Paper](https://reactnativepaper.com/)
 * [React Navigation](https://reactnavigation.org/)
@@ -100,7 +108,7 @@ yarn start
 * babel/core
 
 ## Screenshots
-![](./docs/LoginSignUpScreen.png)
-![](./docs/ToDoListScreen.png)
-![](./docs/NewToDo.png)
-![](./docs/ProfileScreen.png)
+![React Native Starter Template Auth Screen](./docs/LoginSignUpScreen.png)
+![React Native Starter Template To Do List Screen](./docs/ToDoListScreen.png)
+![React Native Starter Template Create New To Do Screen](./docs/NewToDo.png)
+![React Native Starter Template User Profile Screen](./docs/ProfileScreen.png)
